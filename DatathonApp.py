@@ -16,7 +16,7 @@ import re
 import pandas as pd
 
 # Set the API key in your environment variable sahilursa
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = 'API_KEY_HERE'
 
 class Worker(QThread):
     # Define signals to communicate with the GUI
