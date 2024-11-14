@@ -28,3 +28,6 @@ import pyaudio
 
 # more dependencies...
 ```
+
+### Analysis
+Data generation and analysis code can be found in the ```analysis_scripts``` directory.
